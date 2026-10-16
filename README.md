@@ -1,5 +1,14 @@
 
 <div align="center">
+  <img src="./assets/banner-github.png"
+       alt="Roberto Atrisco - Software Developer"
+       width="100%" />
+</div>
+
+<br>
+
+
+<div align="center">
 
 # Hi there! I'm Roberto Atrisco 👋
 
