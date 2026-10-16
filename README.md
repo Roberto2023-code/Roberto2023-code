@@ -115,12 +115,6 @@ A Unity-based 3D game development project focused on creating interactive enviro
 
 ---
 
-<div align="center">
-
-
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -139,8 +133,9 @@ A Unity-based 3D game development project focused on creating interactive enviro
 
 </div>
 
+---
 
-
+<div align="center">
 
 
 ### 🤝 Let's Connect!
