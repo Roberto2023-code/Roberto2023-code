@@ -117,6 +117,32 @@ A Unity-based 3D game development project focused on creating interactive enviro
 
 <div align="center">
 
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Roberto2023-code&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Roberto's GitHub Statistics"
+  />
+
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Roberto2023-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Roberto's Most Used Languages"
+  />
+
+</div>
+
+
+
+
+
 ### 🤝 Let's Connect!
 
 I'm always interested in learning, collaborating, and exploring new opportunities in software development.
